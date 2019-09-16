@@ -1,0 +1,25 @@
+
+h1 {text-align: center}
+
+#first{color: red}
+
+#second{color: blue}
+
+#third{color: green}
+
+#four{font-size: 30px}
+
+#five{font-size: 8px}
+
+#six{text-align: center}
+
+#seven{font-weight: bold}
+
+#eight{font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif}
+
+#nine{font-size: 35px; color: orange}
+
+.styledFont{font-style: italic}
+
+#styledImage{border-top:  dotted hotpink; border-bottom: dotted hotpink; border-left: solid indigo; border-right: solid indigo}
+
